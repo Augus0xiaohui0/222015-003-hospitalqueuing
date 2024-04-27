@@ -2,6 +2,27 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/AppointmentBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/BackendManage_UserBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/DoctorBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/DoctorDrugBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/MedicalTechBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/PatientBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/beans/TakeMedicineBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/AppointmentDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/BackendManage_ConnBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/BackendManage_UserDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/ConnBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/LogRegDAO.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/MsSQLConnBean.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/db/PatientUserDao.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/DoctorIndex.jsp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/img" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/pic" charset="GBK" />
   </component>
 </project>
